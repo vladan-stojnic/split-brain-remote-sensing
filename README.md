@@ -1,5 +1,7 @@
 This repository contains the code used to implement the paper [Analysis of Color Space Quantization in Split-Brain Autoencoder for Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/8587001)
 
+Trained models can be found [here](https://drive.google.com/drive/folders/1FX4SiD5cFSIrCVLfbp9QXBeU-xT8BVUZ?usp=sharing)
+
 
 It can also be used to reproduce the results from the paper [Evaluation of Split-Brain Autoencoders for High-Resolution Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/8534634)
 
