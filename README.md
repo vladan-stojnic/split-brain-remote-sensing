@@ -5,7 +5,7 @@ Trained models can be found [here](https://drive.google.com/drive/folders/1FX4Si
 
 It can also be used to reproduce the results from the paper [Evaluation of Split-Brain Autoencoders for High-Resolution Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/8534634)
 
-If you find thi swork usefull and use it in your research please cite
+If you find this work useful and use it in your research please cite
 
 ```
 @inproceedings{stojnic2018analysis,
